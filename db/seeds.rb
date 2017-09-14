@@ -5,3 +5,5 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+Artist.create(name: "Michael Jackson",
+  image_url: "http://e.rpp-noticias.io/normal/2016/02/01/224422_72777.jpg")
